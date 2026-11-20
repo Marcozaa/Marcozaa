@@ -16,10 +16,6 @@
   <a href="mailto:marcozanchin2@gmail.com"><img src="https://img.shields.io/badge/Email-0d1117?style=for-the-badge&logo=gmail&logoColor=00d4ff" /></a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Marcozaa&style=flat-square&color=6e40c9&label=PROFILE+VIEWS" />
-</p>
-
 <!-- ═══════════ ABOUT ═══════════ -->
 <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
@@ -70,7 +66,7 @@ const marco = {
   </tr>
   <tr>
     <td align="center"><b>🛠️ Tools</b></td>
-    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,postman&theme=dark" /></td>
+    <td><img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker&theme=dark" /></td>
   </tr>
 </table>
 
@@ -96,7 +92,7 @@ const marco = {
 </p>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozaa&bg_color=0d1117&color=00d4ff&line=6e40c9&point=ffffff&area=true&area_color=6e40c9&hide_border=true&custom_title=Contribution%20Activity" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Marcozaa&days=90&bg_color=0d1117&color=39d353&line=26a641&point=39d353&area=true&area_color=006d32&hide_border=true&custom_title=Contribution%20Activity%20%C2%B7%20last%2090%20days" />
 </p>
 
 <!-- ═══════════ SNAKE ═══════════ -->
