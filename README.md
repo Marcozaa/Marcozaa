@@ -83,7 +83,6 @@ const marco = {
 <h3 align="center">📊 GitHub Analytics</h3>
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=Marcozaa&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&icon_color=6e40c9&include_all_commits=true&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs?username=Marcozaa&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4ff&langs_count=8" />
 </p>
 
